@@ -4,11 +4,11 @@
   <img src="https://ipfs.io/ipfs/bafybeigd6i5aavwpr6wvnwuyayklq3omonggta4x2q7kpmgafj357nkcky" alt="edgetunnel" style="margin-bottom: -50px;">
 </p>
 
-GitHub Repository for [https://github.com/zizifn/edgetunnel](https://github.com/zizifn/edgetunnel)
+GitHub Repository for [https://github.com/wixne20/edgetunnel](https://github.com/wixne20/edgetunnel)
 
 ask question and cloudflare ips: [https://t.me/edtunnel](https://t.me/edtunnel)
 
-[![Repository](https://img.shields.io/badge/View%20on-GitHub-blue.svg)](https://github.com/zizifn/edgetunnel)
+[![Repository](https://img.shields.io/badge/View%20on-GitHub-blue.svg)](https://github.com/wixne20/edgetunnel)
 
 ## available branches and explain
 
@@ -38,11 +38,11 @@ ask question and cloudflare ips: [https://t.me/edtunnel](https://t.me/edtunnel)
 
 ## Deploy in worker.dev
 
-1. Copy `_worker.js` code from [here](https://github.com/SonzaiEkkusu/EDtunnel/blob/main/_worker.js).
+1. Copy `_worker.js` code from [here](https://github.com/wixne20/EDtunnel/blob/main/_worker.js).
 
 2. Alternatively, you can click the button below to deploy directly.
 
-   [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/SonzaiEkkusu/EDtunnel)
+   [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/wixne20/EDtunnel)
 
 3. Noneed add `nodejs_compat` at setting Compatibility flags
 
